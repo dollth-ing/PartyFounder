@@ -1,0 +1,10 @@
+{
+  "Author": "Dollth.ing",
+  "Name": "PartyFounder",
+  "Punchline": "A Dalamud plugin to save and share presets for Partyfinder.",
+  "Description": "",
+  "ApplicableVersion": "any",
+  "Tags": [
+    "partyfinder",
+  ]
+}

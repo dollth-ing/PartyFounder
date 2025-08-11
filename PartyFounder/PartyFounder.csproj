@@ -2,10 +2,11 @@
 <Project Sdk="Dalamud.NET.Sdk/13.0.0">
   <PropertyGroup>
     <Version>0.0.0.1</Version>
-    <Description>A sample plugin.</Description>
-    <PackageProjectUrl>https://github.com/goatcorp/SamplePlugin</PackageProjectUrl>
+    <Description>A Dalamud plugin to save and share presets for Partyfinder.</Description>
+    <PackageProjectUrl>https://github.com/dollth-ing/PartyFounder</PackageProjectUrl>
     <PackageLicenseExpression>AGPL-3.0-or-later</PackageLicenseExpression>
     <IsPackable>false</IsPackable>
+    <RootNamespace>PartyFounder</RootNamespace>
   </PropertyGroup>
 
   <ItemGroup>

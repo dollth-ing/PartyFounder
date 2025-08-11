@@ -1,7 +1,7 @@
 ﻿using Dalamud.Configuration;
 using System;
 
-namespace SamplePlugin;
+namespace PartyFounder;
 
 [Serializable]
 public class Configuration : IPluginConfiguration
