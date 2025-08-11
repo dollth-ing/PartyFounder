@@ -11,7 +11,7 @@ You will currently have to compile the plugin from source, it is not even in alp
  - Nothing so far!
 
 ### Features to Implement
- - Saving presets from the partyfinder window
+ - Saving presets from the Partyfinder window
  - Editing presets from plugin window
    - Application rules
  - Importing presets
@@ -19,12 +19,13 @@ You will currently have to compile the plugin from source, it is not even in alp
  - Exporting presets
  - "Blue lock" button
  - Premade, patch appropriate, sample presets
+ - Preset subscriptions like [MacroMate](https://github.com/grittyfrog/MacroMate)
 
 ### Discussion and Help
 All discussion and help should be held on the projects matrix space, #PartyFounder:dollth.ing
 
 ### Contributing
-PR's are welcome, though all PR's with noticbly AI assisted code will be rejected
+PR's are welcome, though all PR's with noticeably AI assisted code will be rejected
 
 ### Special Thanks
-[Goatcorp](https://github.com/goatcorp) for the sample plugin to get this thing started and their work on xivlauncher and dalamud
+[Goatcorp](https://github.com/goatcorp) for the sample plugin to get this thing started and their work on XIVLauncher and Dalamud
